@@ -757,7 +757,12 @@ Figma
 
 
 # OUTPUT:
-![alt text](image.png)
+![Screenshot (1)](https://github.com/user-attachments/assets/bb49be9a-daed-460d-95a3-e7c2c74bbbbf)
+![Screenshot (2)](https://github.com/user-attachments/assets/900606df-a110-49e2-9615-6a9786d2558c)
+![Screenshot (3)](https://github.com/user-attachments/assets/222390a3-ca18-4360-8824-ea53b8e137dc)
+![Screenshot (4)](https://github.com/user-attachments/assets/b5773d43-e7c4-4531-a776-d6b163d22939)
+
+
 
 
 # RESULT:
